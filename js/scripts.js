@@ -5,7 +5,7 @@ var name = prompt('Enter your name');
 console.log('Hello, ' + name);
 
 
-//No przyznam że tak łatwo to jeszcze nie było :d!
+//No przyznam że tak łatwo to jeszcze nie było :d! Tytuł tego zadania miał być rozumiem taką ironią co :P?
 
 /*
  In dignissim feugiat egestas. 
