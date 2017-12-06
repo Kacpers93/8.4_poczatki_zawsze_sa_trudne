@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  background-color: #7c8989; }
+  body .container {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin: auto;
+    max-width: 900px;
+    background-color: #ffffff; }
+    body .container h1 {
+      text-align: center;
+      border-bottom: 2px solid black;
+      margin: 0 20%; }
+    body .container iframe {
+      margin-top: 30px;
+      width: 100%;
+      max-height: 450px; }
+    body .container .song-text {
+      margin: 20px 0 0 20px; }
+      body .container .song-text a {
+        text-decoration: none;
+        color: black;
+        text-align: center; }
+        body .container .song-text a p {
+          padding-bottom: 15px; }
