@@ -5,7 +5,7 @@ var name = prompt('Enter your name');
 console.log('Hello, ' + name);
 
 
-//Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+//No przyznam że tak łatwo to jeszcze nie było :d!
 
 /*
  In dignissim feugiat egestas. 
